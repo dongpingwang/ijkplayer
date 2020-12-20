@@ -1,0 +1,2 @@
+armeabi-v7a.zip是默认配置编译出来的so
+armeabi-v7a-all.zip 是支持全部格式编译出来的so
